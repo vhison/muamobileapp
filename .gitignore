@@ -1,6 +1,7 @@
 # OSX
 #
 .DS_Store
+Thumbs.db
 
 # Xcode
 #
@@ -21,6 +22,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 ios/.xcode.env.local
+## CocoaPods
+ios/Pods/
 
 # Android/IntelliJ
 #
@@ -34,9 +37,24 @@ local.properties
 
 # node.js
 #
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
 node_modules/
 npm-debug.log
 yarn-error.log
+testem.log
+/typings
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
 
 # BUCK
 buck-out/
@@ -65,12 +83,23 @@ buck-out/
 
 # VS Code
 .vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # Expo
 .expo/*
 bin/Exponent.app
 
-
+# react-native
+app-release.app.dSYM.zip
+app-release.app
+.env
+.env.prod
+.env.dev
+.idea
 
 ## Secrets
 npm-debug.*
