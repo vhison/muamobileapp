@@ -1,10 +1,10 @@
-# Welcome to your new ignited app!
+# Welcome to new ignited app!
 
 [![CircleCI](https://circleci.com/gh/infinitered/ignite.svg?style=svg)](https://circleci.com/gh/infinitered/ignite)
 
 ## The latest and greatest boilerplate for Infinite Red opinions
 
-This is the boilerplate that [Infinite Red](https://infinite.red) uses as a way to test bleeding-edge changes to our React Native stack.
+<!-- This is the boilerplate that [Infinite Red](https://infinite.red) uses as a way to test bleeding-edge changes to our React Native stack. -->
 
 Currently includes:
 
@@ -153,7 +153,7 @@ The `ignite` directory stores all things Ignite, including CLI and boilerplate i
 
 This directory will hold your Jest configs and mocks.
 
-## Running Maestro end-to-end tests
+<!-- ## Running Maestro end-to-end tests
 
 Follow our [Maestro Setup](https://ignitecookbook.com/docs/recipes/MaestroSetup) recipe from the [Ignite Cookbook](https://ignitecookbook.com/)!
 
@@ -161,4 +161,4 @@ Follow our [Maestro Setup](https://ignitecookbook.com/docs/recipes/MaestroSetup)
 
 - [2018 aka Bowser](https://github.com/infinitered/ignite-bowser)
 - [2017 aka Andross](https://github.com/infinitered/ignite-andross)
-- [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016)
+- [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016) -->
